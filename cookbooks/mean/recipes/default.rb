@@ -47,5 +47,5 @@ npm_global_pacages.each do |npm_pkg|
 end
 
 execute 'npm global package install' do
-  command "su vagrant -l -c 'npm i -g node-gyp grunt-cli yo gulp'"
+  command "su vagrant -l -c 'npm i -g node-gyp grunt-cli yo gulp mean-cli'"
 end
