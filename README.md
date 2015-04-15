@@ -9,6 +9,7 @@
 + Node.js
 + Sass
 + Grunt
++ Gulp
 + Bower
 + Yeoman
 + Mean
