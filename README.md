@@ -19,7 +19,7 @@
 + [Vagrant](http://www.vagrantup.com/downloads.html)
 + [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
 
-## Getting Started
+## Getting Started!
 
 This is a fairly simple project to get up and running.  
 
